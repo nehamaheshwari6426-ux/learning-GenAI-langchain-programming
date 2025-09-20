@@ -7,11 +7,15 @@ from dotenv import load_dotenv
 
 from tools.sql import run_query_tool, list_tables, describe_tables_tool
 from tools.reports import write_report_tool
+from handlers.chat_model_handler import ChatModelStartHandler
 
 # Load environment variables from a .env file
 load_dotenv()
 
-chat = ChatOpenAI()
+handler = ChatModelStartHandler()
+chat = ChatOpenAI(
+    callbacks=[handler],
+)
 
 tables = list_tables()
 
@@ -44,7 +48,7 @@ agent_executor = AgentExecutor(
     agent=agent,
     tools=tools,
     memory=memory,
-    verbose=True
+    # verbose=True
 )
 
 # agent_executor.run("How many users have provided shipping addresses?")
