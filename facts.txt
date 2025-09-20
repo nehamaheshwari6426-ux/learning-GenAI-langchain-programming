@@ -1,0 +1,100 @@
+1.The Amazon produces 20% of the world’s oxygen.
+2.Antarctica is the largest desert on Earth.
+3.Lightning strikes the Earth ~8 million times a day.
+4.Bamboo can grow up to 90 cm (3 ft) in 24 hours.
+5.The Great Barrier Reef is visible from space.
+6.A day on Venus is longer than a year on Venus.
+7.The Sahara expands by ~48 km² every year.
+8.Mount Everest grows about 4 mm per year.
+9.The deepest part of the ocean is over 11 km down.
+10.Coral reefs cover less than 1% of the ocean floor but support 25% of marine life.
+11.Neutron stars are so dense a teaspoon weighs 4 billion tons.
+12.Light takes 8 minutes to reach Earth from the Sun.
+13.Absolute zero is –273.15°C, where atoms theoretically stop moving.
+14.Water expands when it freezes—rare among liquids.
+15.A photon can be in two places at once (quantum superposition).
+16.Time moves slower near strong gravity (relativity).
+17.The Large Hadron Collider is the world’s largest machine.
+18.Sound travels 4x faster in water than in air.
+19.The Planck length is the smallest possible measurement.
+20.The universe is 13.8 billion years old.
+21.Jupiter has 95 moons (as of 2025).
+22.Saturn could float in water—if you had a tub big enough.
+23.A day on Mercury lasts 1,408 hours.
+24.The Milky Way is 100,000 light-years across.
+25.Black holes warp space-time itself.
+26.Mars has the largest volcano in the solar system, Olympus Mons.
+27.The Sun contains 99.8% of the solar system’s mass.
+28.Space smells like burnt steak (per astronaut reports).
+29.Pluto is smaller than Earth’s moon.
+30.Some exoplanets rain diamonds.
+31.The first 1 GB hard drive weighed 550 pounds.
+32.More than 7 billion people own a smartphone in 2025.
+33.The world’s first website is still online (info.cern.ch).
+34.AI supercomputers now consume power equal to small cities.
+35.Quantum computers can solve problems classical computers can’t.
+36.6G networks are in early trials.
+37.The Apollo guidance computer had less power than a calculator.
+38.Google processes ~8.5 billion searches daily.
+39.The first email was sent in 1971.
+40.Most of the world’s data has been created in the past two years.
+41.Your stomach acid can dissolve stainless steel.
+42.The human brain has ~86 billion neurons.
+43.Blood makes up about 8% of your body weight.
+44.Your bones are stronger than concrete.
+45.Babies have ~300 bones, adults ~206.
+46.Your tongue print is unique, like a fingerprint.
+47.The average adult takes ~20,000 breaths per day.
+48.Fingernails grow faster than toenails.
+49.Humans are the only animals that blush.
+50.Your heart beats ~100,000 times per day.
+51.The Great Wall of China is over 21,000 km long.
+52.Cleopatra lived closer in time to the iPhone than to the pyramids.
+53.The world’s oldest university is in Morocco (859 AD).
+54.The Library of Alexandria may have held 400,000 scrolls.
+55.The Eiffel Tower was originally a temporary structure.
+56.The first Olympic Games were held in 776 BC.
+57.Vikings never wore horned helmets.
+58.Paper was invented in China around 105 AD.
+59.The internet was originally called ARPANET.
+60.The printing press sparked the scientific revolution.
+61.Cows have best friends.
+62.Dolphins call each other by name.
+63.Sharks existed before trees.
+64.Penguins propose with pebbles.
+65.Sloths can hold their breath longer than dolphins.
+66.Octopuses have three hearts.
+67.Elephants can “hear” with their feet.
+68.Wombat poop is cube-shaped.
+69.Some lizards can squirt blood from their eyes.
+70.Tardigrades can survive in space.
+71.The Mona Lisa has no eyebrows.
+72.Shakespeare invented ~1,700 words.
+73.The longest movie ever made is 35 days long.
+74.Beethoven continued composing after going deaf.
+75.The first photograph took 8 hours to capture.
+76.Pixar’s “Toy Story” was the first fully computer-animated film.
+77.Netflix started as a DVD rental service.
+78.The most expensive painting ever sold went for $450M.
+79.The Hollywood sign originally read “Hollywoodland.”
+80.Karaoke means “empty orchestra” in Japanese.
+81.People remember emotionally charged events more vividly.
+82.Multitasking reduces efficiency by ~40%.
+83.Laughter releases endorphins.
+84.Humans are wired to recognize faces in objects (pareidolia).
+85.Color can influence mood—blue is calming, red is energizing.
+86.Decision fatigue reduces willpower.
+87.Smiling can trick your brain into happiness.
+88.Mirror neurons help us empathize.
+89.People are more creative when slightly tired.
+90.The placebo effect can trigger real healing.
+91.Lego is the largest tire manufacturer in the world.
+92.There are more trees on Earth than stars in the Milky Way.
+93.Alaska is the westernmost and easternmost U.S. state.
+94.Pineapples take two years to grow.
+95.The world’s deepest postbox is in Japan, 10 meters underwater.
+96.A day on Earth is lengthening by 1.7 milliseconds per century.
+97.Avocados are berries.
+98.Koalas have fingerprints like humans.
+99.The longest word in English has 189,819 letters.
+100.The dot on an “i” is called a tittle.
