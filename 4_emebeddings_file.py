@@ -24,7 +24,17 @@ docs = loader.load_and_split(
     text_splitter=text_splitter
 )
 
-# Print the loaded and split documents
-for doc in docs:
-    print(doc.page_content)
-    print("-----")
+db = Chroma.from_documents(
+    docs, 
+    embedding=embeddings,
+    persist_directory="emb",
+)
+
+results = db.similarity_search(
+    "What is an interesting fact about Earth?", 
+    k=2
+)
+
+for result in results:
+    print("\n")
+    print(result.page_content)
